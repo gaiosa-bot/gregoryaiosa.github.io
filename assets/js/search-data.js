@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github/";
+            window.location.href = "/_pages/github.html";
           },
         },{id: "projects-project-1",
           title: 'project 1',
