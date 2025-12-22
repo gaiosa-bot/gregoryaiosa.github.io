@@ -82,6 +82,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-robot-domino-artist",
+          title: 'Robot Domino Artist',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/domino/";
             },},{
         id: 'social-cv',
         title: 'CV',
